@@ -30,7 +30,7 @@ Story 1: In order to track wildlife sightings, as a user of the API, I need to m
 
 Branch: animal-crud-actions
 
-Acceptance Criteria
+Acceptance Criteria.
 
 <!-- Create a resource for animal with the following information: common name and scientific binomial
 Can see the data response of all the animals
